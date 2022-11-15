@@ -1,6 +1,8 @@
 # Phonogeneli
 Phonogeneli is a Max for Live device. It's a quirky tape loop effect and is available for free. Check the details below.
 
+<img width="335" alt="phonogeneli 0 1" src="https://user-images.githubusercontent.com/30825364/202012189-bda5a409-5347-41f2-95e5-eabbf0b688b2.png">
+
 ## Manual
 ### Introduction
 Phonogeneli is a tape loop effect inspired by Phonogene by Make Noise.  
