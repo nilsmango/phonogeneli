@@ -3,7 +3,7 @@ Phonogeneli is a Max for Live device. It's a quirky tape loop effect and is avai
 
 ## Manual
 ### Introduction
-Phonogeneli is a tape loop effect inspired by Phonogene by Make Noise.
+Phonogeneli is a tape loop effect inspired by Phonogene by Make Noise.  
 If you like this device and would like to buy me a beer, you can do so [here](https://ko-fi.com/nilsmango).
 
 ### Waveform Display
@@ -51,4 +51,4 @@ Phonogeneli can play itself, which is both dangerous and fun!
 
 ## Version & License
 Phonogeneli 0.1
-Made by Nils Mango, Biel/Bienne Switzerland 2022 - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License, except where otherwise noted. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+Made by Nils Mango, Biel/Bienne Switzerland 2022 - This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/), except where otherwise noted.
