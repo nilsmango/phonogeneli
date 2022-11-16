@@ -44,10 +44,12 @@ The functions are:
 
 
 ### Tips & Tricks
-Adding a limiter might be a good idea. Be aware that you might get a click-fest. Adding a reverb will make this beast an ambient wunderkind.  
-Phonogeneli is fully integrated with Ableton Push.  
-The audio buffer will not get saved when closing the project.  
-Phonogeneli can play itself, which is both dangerous and fun!  
+- Adding a limiter might be a good idea. Be aware that you might get a click-fest. Adding a reverb will make this beast an ambient wunderkind.
+- Phonogeneli is fully integrated with Ableton Push.
+- The audio buffer will not get saved when closing the project.
+- Phonogeneli can play itself, which is both dangerous and fun!
+- Try automating the <kbd>Rec</kbd> button!
+
 **Known bugs:** if you copy the device sometimes the loop doesn't start. Moving the Start dial will help make the tape loop start again.
 
 
